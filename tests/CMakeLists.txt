@@ -1,0 +1,1 @@
+add_executable(allocator_test allocator_test.cpp)
